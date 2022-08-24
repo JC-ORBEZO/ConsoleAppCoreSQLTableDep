@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCoreSQLTableDep", "ConsoleAppCoreSQLTableDep\ConsoleAppCoreSQLTableDep.csproj", "{8C6098E1-B9F4-464C-84B7-3C9B4B0EE780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{E7114BF0-C0DC-4F32-ADA3-384D04115BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6098E1-B9F4-464C-84B7-3C9B4B0EE780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6098E1-B9F4-464C-84B7-3C9B4B0EE780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6098E1-B9F4-464C-84B7-3C9B4B0EE780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6098E1-B9F4-464C-84B7-3C9B4B0EE780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7114BF0-C0DC-4F32-ADA3-384D04115BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7114BF0-C0DC-4F32-ADA3-384D04115BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7114BF0-C0DC-4F32-ADA3-384D04115BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7114BF0-C0DC-4F32-ADA3-384D04115BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B43329-57EA-47B5-9E22-6DEC9FCF442F}
+	EndGlobalSection
+EndGlobal
